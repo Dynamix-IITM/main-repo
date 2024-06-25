@@ -4,7 +4,7 @@ Still, I kept reading and went on to try coding up the equations they gave in Py
 Q1) How is the existence of atomic clouds justified? Why don't the atoms simply fuse to form molecules?<br><br>
 Q2) Why does the decay of atomic clouds go as $AM^2$? Why the squaring?<br><br>
 Q3) Same question for decay of molecular clouds- why $SM^n$?<br>
-I think this is an experimental fact. <br><br>
+This is as per the experimental [Kennicutt-Schmidt Law](https://en.wikipedia.org/wiki/Kennicutt%E2%80%93Schmidt_law). <br><br>
 Q4) Why do stellar winds contribute to atomic clouds instead of molecular clouds?<br><br><br>
 
 
