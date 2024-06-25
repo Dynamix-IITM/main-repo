@@ -8,7 +8,7 @@ Q2) Why does the decay of atomic clouds go as $AM^2$? Why the squaring?<br>
 Firstly, we need to understand that atomic clouds don't have a functioning mechanism for cooling-they're just cool H atoms in space. On the other hand, molecular clouds cool majorly due to: <br>
 a)Absorption of stellar radiation and reflection of infrared waves due to dust and the molecules. <br>
 b)Emission of radiation due to rotational and vibrational transitions of CO, H2, HD, etc. <br>
-It turns out that both the above processes are proportional to the square of the molecular density of H2. 
+It turns out that both the above processes are proportional to the square of the molecular density of H2.  <br><br>
 
 Q3) Same question for decay of molecular clouds- why $SM^n$?<br>
 This is as per the experimental [Kennicutt-Schmidt Law](https://en.wikipedia.org/wiki/Kennicutt%E2%80%93Schmidt_law). <br><br>
