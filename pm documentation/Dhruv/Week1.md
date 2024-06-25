@@ -14,7 +14,9 @@ Q3) Same question for decay of molecular clouds- why $SM^n$?<br>
 This is as per the experimental [Kennicutt-Schmidt Law](https://en.wikipedia.org/wiki/Kennicutt%E2%80%93Schmidt_law). <br><br>
 
 Q4) Why do stellar winds contribute to atomic clouds instead of molecular clouds?<br>
-It's an assumption they've taken.<br><br><br>
+It's an assumption they've taken.<br><br>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
 
 
 As for the textbook, since I'd already read upto page 54 for my application (and whatever I learned I had included in my app), I have only summarised the rest below:<br><br>
