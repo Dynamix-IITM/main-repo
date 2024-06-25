@@ -1,7 +1,8 @@
 I started with reading the paper. It wasn't a long read, but I found the arguments used by the authors to justify different processes to be nonintuitive at first.
 Still, I kept reading and went on to try coding up the equations they gave in Python [here](https://colab.research.google.com/drive/1UhZfxzaA9NqxaS3s4VMM6kZvpTvhHgGf#scrollTo=11_-y_INcvWP). After my first read, I had the following four questions which I have tried answering below: <br><br>
 
-Q1) How is the existence of atomic clouds justified? Why don't the atoms simply fuse to form molecules?<br><br>
+Q1) How is the existence of atomic clouds justified? Why don't the atoms simply fuse to form molecules?<br>
+Atomic clouds are made from cool interstellar gas, and they are found to be at temperatures of ~100K. Although Le Chatelier's principle requires low temperature for quicker reaction (due to the reaction being exothermic), we cannot ignore the minimum activation energy the atoms need to react which I'm guessing the cloud does not posses and hence the atoms don't fuse. <br><br>
 Q2) Why does the decay of atomic clouds go as $AM^2$? Why the squaring?<br><br>
 Q3) Same question for decay of molecular clouds- why $SM^n$?<br>
 This is as per the experimental [Kennicutt-Schmidt Law](https://en.wikipedia.org/wiki/Kennicutt%E2%80%93Schmidt_law). <br><br>
