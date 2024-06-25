@@ -15,6 +15,7 @@ This is as per the experimental [Kennicutt-Schmidt Law](https://en.wikipedia.org
 
 Q4) Why do stellar winds contribute to atomic clouds instead of molecular clouds?<br>
 It's an assumption they've taken.<br><br>
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 
