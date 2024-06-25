@@ -3,10 +3,18 @@ Still, I kept reading and went on to try coding up the equations they gave in Py
 
 Q1) How is the existence of atomic clouds justified? Why don't the atoms simply fuse to form molecules?<br>
 Atomic clouds are made from cool interstellar gas, and they are found to be at temperatures of ~100K. Although Le Chatelier's principle requires low temperature for quicker reaction (due to the reaction being exothermic), we cannot ignore the minimum activation energy the atoms need to react which I'm guessing the cloud does not posses and hence the atoms don't fuse. <br><br>
-Q2) Why does the decay of atomic clouds go as $AM^2$? Why the squaring?<br><br>
+
+Q2) Why does the decay of atomic clouds go as $AM^2$? Why the squaring?<br>
+Firstly, we need to understand that atomic clouds don't have a functioning mechanism for cooling-they're just cool H atoms in space. On the other hand, molecular clouds cool majorly due to: <br>
+a)Absorption of stellar radiation and reflection of infrared waves due to dust and the molecules. <br>
+b)Emission of radiation due to rotational and vibrational transitions of CO, H2, HD, etc. <br>
+It turns out that both the above processes are proportional to the square of the molecular density of H2. 
+
 Q3) Same question for decay of molecular clouds- why $SM^n$?<br>
 This is as per the experimental [Kennicutt-Schmidt Law](https://en.wikipedia.org/wiki/Kennicutt%E2%80%93Schmidt_law). <br><br>
-Q4) Why do stellar winds contribute to atomic clouds instead of molecular clouds?<br><br><br>
+
+Q4) Why do stellar winds contribute to atomic clouds instead of molecular clouds?<br>
+It's an assumption they've taken.<br><br><br>
 
 
 As for the textbook, since I'd already read upto page 54 for my application (and whatever I learned I had included in my app), I have only summarised the rest below:<br><br>
