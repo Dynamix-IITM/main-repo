@@ -1,6 +1,4 @@
-<details>
-<summary>Fourth Order Runge-Kutta Method</summary>
-
+```julia```
 #RKM-4
 using Plots
 
@@ -64,10 +62,7 @@ Mgif=[]
     plot(Agif,Mgif)
 end #this is only M vs A
 
-</details>
 
-<details>
-<summary>Euler Method</summary>
 #Euler's Method
 using Plots
 
@@ -123,5 +118,4 @@ Mgif=[]
     plot(Agif,Mgif)
 end #this is only M vs A
 
-</details>
-
+```julia
