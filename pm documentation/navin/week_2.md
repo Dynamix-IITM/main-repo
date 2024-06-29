@@ -11,3 +11,10 @@
 
 ### Reading
 - Will start reading lawvere Part III - Categories of structured sets from tomorrow
+
+# 29 June 2024
+
+### Tweaked the Paramters for obtaining Eqm
+- Solving for a general equilibrium is very trivial: set $\frac{da}{dx}$ and $\frac{dm}{dx}$ to zero and solve the two equations that you get
+- The expressions for a, m in terms of k1 and k2 are very nice
+- Figured out k1 = 8.75, k2 = 2.5 is ideal for an eqm of a = 0.25, m = 0.4, s = 3.5
