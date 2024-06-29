@@ -93,6 +93,7 @@ A = 0.1; M = 0.7; S = 0.2;
 T = A + M + S
 """
 
+"""
 ## Parameter Set 2:
 
 # parameters defining the system
@@ -101,6 +102,17 @@ K1 = 0.5; K2 = 0.5; K3 = 10; K4 = 1;
 
 # initial conditions
 A = 0.15; M = 0.15; S = 0.75;
+T = A + M + S
+"""
+
+## Parameter Set 3:
+
+# parameters defining the system
+n = 1.5
+K1 = 0.5; K2 = 0.5; K3 = 8; K4 = 15;
+
+# initial conditions
+A = 0.3; M = 0.3; S = 0.4;
 T = A + M + S
 
 soln = solveModel(A, M, T, K1, K2, K3, K4, n, 100, 100000)
@@ -119,4 +131,4 @@ xlabel!(q, "MF")
 ylabel!(q, "AF")
 
 plt = plot(p, q, layout=(2,1))
-savefig(plt, "stars.pdf")
+savefig(plt, "stars.png")
