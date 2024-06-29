@@ -10,4 +10,4 @@
 ![image](./../../stars.png)
 
 ### Reading
-- Will start reading lawvere 100-130 from tomorrow
+- Will start reading lawvere Part III - Categories of structured sets from tomorrow
