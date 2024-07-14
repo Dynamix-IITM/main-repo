@@ -21,6 +21,20 @@ Similar to how we defined these terms for matrices, an involution is a morphism 
 
 An idempotent is a morphism $e: X \rightarrow X$ such that $e \circ e = e$. It's internal diagram looks like: ![image](https://github.com/user-attachments/assets/6ef3aa39-1104-42e0-a07d-e0ef53932811) <br>
 
+All the above discussed kinds of morphisms may be related as follows: 
+![image](https://github.com/user-attachments/assets/bfe01eb2-095c-4177-9cd2-b56b9ac90af6) <br><br>
+
+### <ins>The Category of Irreflexive Graphs</ins><br>
+
+These are _directed_ graphs, where a pair of maps point from one set to another. Specifically, we define maps $s$ and $t$ from $X$, the set of 'arrows' to $P$, the set of 'dots'. <br> 
+<div align="center"> ![image](https://github.com/user-attachments/assets/bf0e8b7c-33fe-4010-857f-1f11a7a22b80) </div>
+
+
+
+
+
+
+
 
 
 
