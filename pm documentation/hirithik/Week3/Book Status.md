@@ -1,0 +1,2 @@
+- Completed till page 195, I didn't complete section 15 alone. It is difficult to understand and I am trying.Some exercises I have to see.
+- - I wrote summary to all topics I understood till page 195
