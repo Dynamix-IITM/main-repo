@@ -22,7 +22,7 @@ function sier!(du, u, p, t)
     du[2] = p[3] * u[1] * u[3] / u[5] - (p[1] + p[2]) * u[2]
     du[3] = p[2] * u[2] - (p[4] + p[1]) * u[3]
     du[4] = p[4] * u[3] - p[1] * u[4]
-    du[5] = 0  # assume death rate = birth rate
+    du[5] = p[1] * u[5] - p[3] * u[1]  # assume death rate = birth rate
 end
 
 # set up the model with initial conditions
