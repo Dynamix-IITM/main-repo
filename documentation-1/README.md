@@ -2,9 +2,9 @@ This directory keeps track of all resources and tasks for documenting the review
 
 # Current files
 
-- \textbf{base-notebook-for-svir.jl}: Pluto notebook for the baseline SVIR model implemented in the paper.
+- **base-notebook-for-svir.jl**: Pluto notebook for the baseline SVIR model implemented in the paper.
 
-- \textbf{rendered-base-notebook-for-svir.pdf}: The above notebook rendered.
+- **rendered-base-notebook-for-svir.pdf**: The above notebook rendered.
 
 # Resources
 
