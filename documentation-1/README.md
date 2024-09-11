@@ -23,3 +23,5 @@ This directory keeps track of all resources and tasks for documenting the review
 - Parse the exported JSON meaningfully.
 
 - Self hosting modelcollab is painful (look into Issue#1 of modelcollab repo). Find a workaround to extract the JSON automatically.
+
+- Get the ODE representation from input Petri-nets
