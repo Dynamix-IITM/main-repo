@@ -1,0 +1,20 @@
+.petri_1
+    A,B,C
+    t1,t2,tloop
+    A:B
+    B,B,A:C,C,C
+    B:B
+.end
+
+.petri_2
+
+.end
+
+.initials
+
+.end
+
+.rates
+
+.end
+.
