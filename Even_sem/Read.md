@@ -1,0 +1,3 @@
+- Create a folder for each project named appropriately
+- Add all relevant papers.
+- Make a markdown with the work done till now and the work done for this week.
